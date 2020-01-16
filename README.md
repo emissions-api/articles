@@ -1,2 +1,2 @@
 # articles
-Articles that are related to Emissions Api
+This repo contains articles that are related to Emissions Api

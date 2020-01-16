@@ -1,0 +1,7 @@
+Development of Emissions Api was started by a group of people who had known each other before and heard of an awesome funding called Prototypefund.
+They fund projects of public interests tech in several passes each year and open source projects can applicate with their concept that fits the passes topic.
+So we had this idea to use satellite based enviromental data to track down ships in the open sea that emmit too much emissions.
+Because shortly before, there was this enforcement of regulations that prohibits the use of heavy oil on the high seas. But who would check if they do?
+So we heard of this satellite sentinel-5P, with its help, ESA makes numerous environmental measurements available to the public.
+
+The measurement data  of the satiellite is prepared in a fundamental way by ESA but nothing easy to use for non-professionals who are just interested in enviromental data.
